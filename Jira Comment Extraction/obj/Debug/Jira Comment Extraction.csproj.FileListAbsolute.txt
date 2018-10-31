@@ -1,0 +1,21 @@
+C:\Users\cjennings\Desktop\Projects\Jira Comment Extraction\Jira Comment Extraction\Jira Comment Extraction\bin\Debug\Jira Comment Extraction.exe.config
+C:\Users\cjennings\Desktop\Projects\Jira Comment Extraction\Jira Comment Extraction\Jira Comment Extraction\bin\Debug\Jira Comment Extraction.exe
+C:\Users\cjennings\Desktop\Projects\Jira Comment Extraction\Jira Comment Extraction\Jira Comment Extraction\bin\Debug\Jira Comment Extraction.pdb
+C:\Users\cjennings\Desktop\Projects\Jira Comment Extraction\Jira Comment Extraction\Jira Comment Extraction\obj\Debug\Jira Comment Extraction.csprojAssemblyReference.cache
+C:\Users\cjennings\Desktop\Projects\Jira Comment Extraction\Jira Comment Extraction\Jira Comment Extraction\obj\Debug\Jira_Comment_Extraction.Form1.resources
+C:\Users\cjennings\Desktop\Projects\Jira Comment Extraction\Jira Comment Extraction\Jira Comment Extraction\obj\Debug\Jira_Comment_Extraction.Properties.Resources.resources
+C:\Users\cjennings\Desktop\Projects\Jira Comment Extraction\Jira Comment Extraction\Jira Comment Extraction\obj\Debug\Jira Comment Extraction.csproj.GenerateResource.cache
+C:\Users\cjennings\Desktop\Projects\Jira Comment Extraction\Jira Comment Extraction\Jira Comment Extraction\obj\Debug\Jira Comment Extraction.csproj.CoreCompileInputs.cache
+C:\Users\cjennings\Desktop\Projects\Jira Comment Extraction\Jira Comment Extraction\Jira Comment Extraction\obj\Debug\Jira Comment Extraction.exe
+C:\Users\cjennings\Desktop\Projects\Jira Comment Extraction\Jira Comment Extraction\Jira Comment Extraction\obj\Debug\Jira Comment Extraction.pdb
+C:\Users\cjennings\Desktop\Projects\Jira Comment Extraction\Jira Comment Extraction\Jira Comment Extraction\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cjennings\Desktop\Projects\Jira Comment Extraction\Jira Comment Extraction\Jira Comment Extraction\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cjennings\Desktop\Projects\Jira Comment Extraction\Jira Comment Extraction\Jira Comment Extraction\obj\Debug\Jira Comment Extraction.csproj.CopyComplete
+C:\Users\cjennings\Desktop\Projects\Jira Comment Extraction\Jira Comment Extraction\Jira Comment Extraction\bin\Debug\CsvHelper.dll
+C:\Users\cjennings\Desktop\Projects\Jira Comment Extraction\Jira Comment Extraction\Jira Comment Extraction\bin\Debug\CsvHelper.xml
+C:\Users\cjennings\Desktop\Projects\Jira Comment Extraction\Jira Comment Extraction\Jira Comment Extraction\bin\Debug\Jira Comment Extraction.exe.manifest
+C:\Users\cjennings\Desktop\Projects\Jira Comment Extraction\Jira Comment Extraction\Jira Comment Extraction\bin\Debug\Jira Comment Extraction.application
+C:\Users\cjennings\Desktop\Projects\Jira Comment Extraction\Jira Comment Extraction\Jira Comment Extraction\obj\Debug\Jira Comment Extraction.exe.manifest
+C:\Users\cjennings\Desktop\Projects\Jira Comment Extraction\Jira Comment Extraction\Jira Comment Extraction\obj\Debug\Jira Comment Extraction.application
+C:\Users\cjennings\Desktop\Projects\Jira Comment Extraction\Jira Comment Extraction\Jira Comment Extraction\obj\Debug\Jira_Comment_Extraction.AddNewRow.resources
+C:\Users\cjennings\Desktop\Projects\Jira Comment Extraction\Jira Comment Extraction\Jira Comment Extraction\obj\Debug\Jira_Comment_Extraction.Form3.resources
